@@ -36,5 +36,15 @@ enemy4 = {'Name': 'enemyFour', 'Health': 100, 'Exp': 500}
 
 enemy5 = {'Name': 'enemyFive', 'Health': 100, 'Exp': 1000}
 
+# civilians
 
-print('')
+civilian1 = {'Name': 'civOne', 'Exp': 30}
+
+civilian2 = {'Name': 'civTwo', 'Exp': 30}
+
+civilian3 = {'Name': 'civTwo', 'Exp': 30}
+
+civilian4 = {'Name': 'civThree', 'Exp': 30}
+
+civilian5 = {'Name': 'civFour', 'Exp': 30}
+
